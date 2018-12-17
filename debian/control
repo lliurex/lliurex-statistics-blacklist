@@ -1,0 +1,12 @@
+Source: lliurex-statistics-blacklist
+Section: utils
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: lliurex-statistics-blacklist
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends} 
+Description: Lliurex anonymous statistics blacklist file
+ Lliurex anonymous statistics blacklist file
