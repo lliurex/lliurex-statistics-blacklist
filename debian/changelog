@@ -1,4 +1,4 @@
-lliurex-statistics-blacklist (0.2) xenial; urgency=medium
+lliurex-statistics-blacklist (0.2) bionic; urgency=medium
 
   * Update list with root executables
 
