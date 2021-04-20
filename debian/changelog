@@ -1,3 +1,9 @@
+lliurex-statistics-blacklist (0.2) focal; urgency=medium
+
+  * Focal port from bionic
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 20 Apr 2021 12:07:32 +0200
+
 lliurex-statistics-blacklist (0.2) bionic; urgency=medium
 
   * Update list with root executables
